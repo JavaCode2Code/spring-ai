@@ -1,0 +1,5 @@
+org\example\springaitoon\dto\Address.class
+org\example\springaitoon\dto\UserProfile$Address.class
+org\example\springaitoon\dto\UserProfile.class
+org\example\springaitoon\controller\JsonToonDemoController.class
+org\example\springaitoon\SpringAiToonApplication.class
