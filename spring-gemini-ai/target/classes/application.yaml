@@ -1,0 +1,13 @@
+spring:
+ application:
+   name: spring-gemini-ai
+    
+ai:
+    model:
+      chat: gemini-3.8-flash
+    google:
+      genai:
+        api-key: dummy-key
+
+server:
+  port: 9191
